@@ -1,0 +1,11 @@
+{
+  "name": "basic-environment",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "postCreateCommand": "echo 'Codespace ready!'",
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
